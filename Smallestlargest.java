@@ -1,4 +1,4 @@
-public class Smalllarge{
+public class SmallestLargest{
     public static void main(String[] args){
         int arr[]=new int[10];
         for(int i = 0; i<10;i++){
